@@ -51,7 +51,7 @@ try:
     website, actions = extract_commands(answer)
 
     # Initialize Selenium WebDriver
-    driver = webdriver.Chrome(executable_path='path_to_chromedriver.exe')
+    driver = webdriver.Chrome(executable_path='path-to chrome-driver')
 
     # Open the website
     driver.get(website)

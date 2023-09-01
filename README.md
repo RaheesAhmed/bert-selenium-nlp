@@ -47,4 +47,4 @@ The script will interpret the command using BERT, extract instructions, and auto
  - selenium library (for web automation)
 
  ## License
- This project is licensed under the MIT License - see the LICENSE file for details.
+ This project is licensed under the MIT License.
